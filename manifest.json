@@ -1,14 +1,8 @@
 {
-  "name": "OPAD",
-  "displayName": "一人敏捷工作台",
-  "version": "2.0.0",
-  "description": "单页敏捷看板，Node.js + SQLite，支持 Sprint 管理、看板拖拽、站会、回顾、成就系统",
-  "start_command": "npm start",
-  "default_port": 3001,
-  "port_env": "PORT",
-  "data_dir_env": "OPAD_DATA_DIR",
-  "default_data_dir": "data/",
-  "entry": "server.js",
-  "deps": ["better-sqlite3"],
-  "min_node_version": 16
+  "icon": "📊",
+  "name": "敏捷工作台",
+  "description": "Sprint管理 + 看板 + 站会 + 回顾 + 成就系统",
+  "tags": ["看板","站会","回顾"],
+  "url": "http://127.0.0.1:3001/",
+  "startScript": "start.bat"
 }
