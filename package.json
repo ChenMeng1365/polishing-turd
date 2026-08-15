@@ -1,0 +1,17 @@
+{
+  "name": "one-person-agile-dashboard",
+  "version": "2.0.0",
+  "description": "一人公司敏捷工作台 OPAD — 单页敏捷看板，Node.js + SQLite 版",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0"
+  },
+  "license": "MIT"
+}
