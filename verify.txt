@@ -1,9 +1,0 @@
-﻿1) node resolved: D:\env\nodejs\node.exe
-2) 3001 listening: True
-3) server.log:
-2026/9/3 14:45:17 starting OPAD (hidden), PORT=3001
-OPAD 服务已启动
-  地址: http://127.0.0.1:3001
-  数据: E:\workspace\numeron\polishing-turd\data
-4) stop.bat output: 已停止 pid 31840 (端口 3001) | 请按任意键继续. . . 
-5) after stop, 3001 listening: False
